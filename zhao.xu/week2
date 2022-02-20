@@ -1,0 +1,64 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>BO's Shop</title>
+
+	<link rel="stylesheet" href="lib/css/styleguide.css">
+	<link rel="stylesheet" href="css/storetheme.css">
+
+</head>
+<body>
+	
+	<header class="navbar">
+		<div class="container display-flex">
+			<div class="flex-none">
+				<h1><a href="">BO's Shop</a></h1>
+			</div>
+			<div class="flex-stretch"></div>
+			
+			<nav class="flex-none nav">
+			<ul class="container display-flex">
+				<li><a href="" hred="#articale1">Best Seller</a></li>
+				<li><a href="" hred="#articale2">Category</a></li>
+				<li><a href="" hred="#articale3">Help</a></li>
+				<li><a href="" hred="#articale4">My Account</a></li>
+			</ul>
+				</nav>
+		</div>
+	</header>
+
+	
+
+	<div class="container">
+		<article id="article1" class="article card soft">
+			<div class="display-flex flex-align-center">
+				<div class="flex-stretch"><h2>Bunnyot's Shop</h2></div>
+				<div class="flex-none"><small>24/7</small></div>
+			</div>
+			<div class="article-body">
+				<p id="welcome">Welcome to The Bo's Shop</p>
+			</div>
+		</article>
+	</div>
+
+	<div class="view-window" style="background-image: url(img/bw.jpg);">
+		
+	</div>
+
+	<div class="container">
+		<article id="article2" class="article card hard">
+			<h2>About us</h2>
+			<div class="article-body">
+				<p>Lorem ipsum, dolor sit, amet consectetur adipisicing elit. Asperiores voluptates incidunt, id sequi mollitia non dolorum facilis aspernatur, suscipit aperiam, ea! Minima nulla labore repellat numquam optio magnam mollitia tempore eaque doloremque, obcaecati error quibusdam nisi sunt! Consequatur, cum? Fuga.</p>
+				<p>Nemo unde odio, et voluptatibus cumque laudantium ipsum architecto necessitatibus asperiores dolorum dolorem, alias. Corrupti modi esse ipsum amet enim, ea nam libero natus animi dolorem provident labore eius, voluptates cum iste blanditiis accusantium repellendus facilis eos ullam consequatur a.</p>
+				<p>In quae eos, accusantium dolorum officia quibusdam vel optio quas, eaque deserunt aut quo, voluptate sit nemo facilis expedita provident dolorem esse vero illum totam consequuntur debitis atque sequi soluta. Reprehenderit, dolore? Nostrum, architecto harum tempore iste, a voluptates hic.</p>
+			</div>
+		</article>
+	</div>
+
+
+</body>
+</html>

@@ -1,0 +1,13 @@
+
+:root {
+	--color-offwhite:  #f4f4f4;
+}
+body {
+	background-color: var(--color-offwhite);
+}
+#welcome{
+	font-weight: bold;
+	font-size: 3em;
+	text-align: center;
+	color: #D39049;
+}
